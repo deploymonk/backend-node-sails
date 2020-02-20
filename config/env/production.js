@@ -255,6 +255,7 @@ module.exports = {
       'https://staging.example.com',
     ],
 
+
     /***************************************************************************
     *                                                                          *
     * If you are deploying a cluster of multiple servers and/or processes,     *
@@ -390,6 +391,6 @@ module.exports = {
 
   },
 
-
+  explicitHost: '0.0.0.0'
 
 };
